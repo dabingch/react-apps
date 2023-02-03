@@ -1,6 +1,9 @@
 {
-  "dependencies": {
-    "webpack": "5.11.1",
-    "webpack-cli": "4.3.0"
-  }
+	"scripts": {
+		"build": "webpack --mode=development"
+	},
+	"dependencies": {
+		"webpack": "5.11.1",
+		"webpack-cli": "4.3.0"
+	}
 }
